@@ -1,0 +1,4 @@
+-     👋 oi eu sou o nicolas
+-     👀 estou interessado em programar
+-     🌱 atualmente estou estudando html5 e css
+-     📫 voce pode entrar em contato comigo pelo meu instagram @hensel_nicolas
